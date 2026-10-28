@@ -1,0 +1,21 @@
+{
+  "kind": "POST_STUDY_CURATED_NEGATIVE_QUOTE_REPORT",
+  "public_preregistration_claimed": false,
+  "raw_market_rows_included": false,
+  "private_git_history_included": false,
+  "source_preregistration_commit": "f5d4fff",
+  "source_reviewed_collector_commit": "1c508dd",
+  "files": {
+    "README.md": "c3ed72f003b2d0449547a77d7e63f040505bff1dc73ba100a91565772f07a126",
+    "AUDIT.md": "b5b61fddb2eb6fd3162d3fea16dc88a4c7e7cb428ff5394ea5092bfc78406114",
+    "aggregate_results.json": "c536709818648629e9a587bd78a20f33adef9b6174707234dd0debef2e54fe69",
+    "plot_results.py": "4ce16e34948163d9b8d0ac66ea3f7585093aaa7f66b0abca2c86f84f4c9c8ce3",
+    "verify_snapshot.py": "c7f90f883fde7325402fcb6b3dec06bb1f0a32e2ba59091a78d73a61f7a393cb",
+    "requirements.txt": "ed58326e953c51a2b8e68be1ee2213dab7c868651b9d72a29dfd42cd6729c053",
+    ".gitattributes": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da",
+    ".gitignore": "9ae33130e669319635b78e66adb9e4b2abdbbd93612f866d2e478d69b1bf49c6",
+    "figures/bounds.png": "78276f8cee99539a128ee0e9287523e43e26d21a6fe0c790e0f8b0174dad7213",
+    "figures/bounds.svg": "ca15cf5b9f22d2270a41aa57ed9f7143a9e8361ee1ab6668323c599b3901b232"
+  },
+  "prepared_before_publication": true
+}
